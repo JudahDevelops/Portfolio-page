@@ -1,0 +1,2 @@
+#Responsive Portfolio Page
+This is my attempt at a responsive portfolio page, if you check i actually did not use any media rules because all I wanted was to learn how to assign values in a way that they are responsive to the website, its a copy of freecodecamps last responsive web design certification project that I decided to do in vscode instead of their IDE
